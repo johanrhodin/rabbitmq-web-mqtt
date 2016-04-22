@@ -10,5 +10,6 @@
          {ssl_config, []},
          {num_ssl_acceptors, 1},
          {cowboy_opts, []}]},
+  {broker_version_requirements, []},
   {applications, [kernel, stdlib, rabbit, rabbitmq_mqtt, cowboy]}
  ]}.
