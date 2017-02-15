@@ -1,7 +1,7 @@
 # RabbitMQ Web MQTT plugin
 
 
-This plugin provides a support for MQTT-over-WebSockets to
+This plugin provides support for MQTT-over-WebSockets to
 RabbitMQ.
 
 
